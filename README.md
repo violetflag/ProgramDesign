@@ -4,4 +4,4 @@
 
 | 폴더 | 내용 |
 | --- | --- |
-| `reviews/meetinglog-2.1.1/` | [회의록(MeetingLog)](https://github.com/violetflag/meetinglog) 2.1.1 [디자인 검토](reviews/meetinglog-2.1.1/design-critique.md)와 [접근성 검토](reviews/meetinglog-2.1.1/accessibility-review.md), 캡처 24장 |
+| `reviews/meetinglog-2.1.1/` | [회의록(MeetingLog)](https://github.com/violetflag/meetinglog) 2.1.1 [디자인 검토](reviews/meetinglog-2.1.1/design-critique.md)와 [접근성 검토](reviews/meetinglog-2.1.1/accessibility-review.md), 캡처 24장, [수정 결과](reviews/meetinglog-2.1.1/accessibility-review.md#수정-결과-220) → [meetinglog PR #1](https://github.com/violetflag/meetinglog/pull/1) (2.2.0) |
